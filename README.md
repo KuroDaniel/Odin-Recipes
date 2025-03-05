@@ -1,0 +1,1 @@
+This is my personal take on the odin project recipes course. With the help of a few friends I am able to get through this course. I hope to learn and impress and demonstrate the abilities I have learned thus far in this course.
