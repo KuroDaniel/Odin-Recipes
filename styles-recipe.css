@@ -1,0 +1,15 @@
+.recipe-list {
+    font-family: 'Brush Script MT',"Times New Roman", serif;
+    font-size: 20px;
+}
+
+.fluff-text {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.title {
+    text-align: center;
+    color:hsl(300, 100%, 80%);
+    background-color: hsl(226, 61%, 17%);
+}
